@@ -2,6 +2,8 @@
 In this project you will be using the concepts learned in the Git for Web Development lesson to fork/clone/push/and submit a PR for each project during this sprint.
 <!-- Adam Maley -->
 This project consists of two parts:
+asdfkajsdflkjsal derrick derrick
+
 
 ## Part One:
 You will need to follow the Lambda School Git Workflow to add a file to this project follow the steps below:
@@ -22,7 +24,7 @@ Go back and follow the same steps for your [UI-III-Flexbox project](https://gith
 
 In order to do this, you **do not** need to create new forks of these projects. Follow the steps below for each project:
 
-- [ ] Add your PM as a collaborator to your fork. 
+- [ ] Add your PM as a collaborator to your fork.
 - [ ] Go into your project folder, make a new branch `firstname-lastname`
 - [ ] Add your first and last name to the README.md file in the project and save.
 - [ ] add/commit/and push to your own branch  **Be sure to push to your branch!**
@@ -37,7 +39,7 @@ In order to do this, you **do not** need to create new forks of these projects. 
   - [ ] Reseach the Git commands `pull`, `rebase`, `merge`. These commands will allow you to bring in changes that other developers push to the master branch.
   - [ ] Reseach the Git commands `reset `, `revert`, `clean`. These commands will allow you to go back and ammends previous commits you have made.
 
-- [ ] Research and set up a Graphical User Interface (GUI) Git console. 
+- [ ] Research and set up a Graphical User Interface (GUI) Git console.
 
-- [ ] Research and setup SSH keys with Github, so that you do not need to input your username/password each time you push. 
+- [ ] Research and setup SSH keys with Github, so that you do not need to input your username/password each time you push.
 
